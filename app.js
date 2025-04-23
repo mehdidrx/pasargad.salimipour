@@ -134,7 +134,7 @@
             const logo = document.createElement('div');
             logo.innerHTML = `
                 <div style="text-align: center; color: white;">
-                    <div style="font-size: 2rem; margin-bottom: 20px; font-weight: bold;">نمایندگی بیمه پاسارگاه</div>
+                    <div style="font-size: 2rem; margin-bottom: 20px; font-weight: bold;">نمایندگی بیمه پاسارگاد</div>
                     <div style="width: 50px; height: 50px; border: 3px solid rgba(255,255,255,0.3); border-radius: 50%; border-top-color: white; margin: 0 auto; animation: spin 1s linear infinite;"></div>
                 </div>
             `;
